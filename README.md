@@ -78,3 +78,6 @@ rejected branch when they contained no buying intent.
 ## Files
 
 - lead-qualification-workflow.json — sanitized n8n workflow export
+## Workflow screenshot
+
+![Workflow overview](workflow-overview.png)
